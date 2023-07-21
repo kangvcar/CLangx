@@ -1,0 +1,2 @@
+n = "hekangjian"
+print(n)
